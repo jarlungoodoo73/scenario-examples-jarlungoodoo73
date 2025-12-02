@@ -62,7 +62,7 @@ A comprehensive collection of example scenarios for [Killercoda](https://killerc
 
 | Scenario | Description | Backend |
 |----------|-------------|---------|
-| [learning-linux](./learning-linux) | Linux learning scenarios with verification | Ubuntu |
+| [learning-linux/linux-files-introduction](./learning-linux/linux-files-introduction) | Learn basic Linux file commands (create, edit, delete files) | Ubuntu |
 
 ## Scenario Structure
 
